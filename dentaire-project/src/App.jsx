@@ -1,13 +1,14 @@
 import { useState } from 'react'
 import './App.css'
 import NavBar from './navbar/NavBar'
-// import logo from '../assets/image/logo.png'
+import Hero from './hero/Hero'
 
 function App() {
 
   return (
     <>
      <NavBar />
+     <Hero />
     </>
   )
 }

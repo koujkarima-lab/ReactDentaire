@@ -43,7 +43,7 @@ li {
 /*******************************************************************************/
 .hero {
     display: flex;
-    background-image: url(main.jpg);
+    background-image: url('assets/image/main.jpg');
     flex-direction: column;
     justify-content: center;
     align-items: center;
